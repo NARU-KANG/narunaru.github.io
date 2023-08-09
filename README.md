@@ -1,2 +1,2 @@
-# narunaru.github.io
+# runarunaru.github.io
 GitHub Blog of Working NARU
